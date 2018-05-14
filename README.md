@@ -1,2 +1,2 @@
 # new-module
-Making a new module for JAGS
+Templates for making a new module for JAGS
